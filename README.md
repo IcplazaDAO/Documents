@@ -1,5 +1,5 @@
 # Documents
 
-URL :https://icplaza.gitbook.io/docs/ 
+URL :https://ictech.gitbook.io/docs/ 
 
-ICPlaza pro ‘s Documents, you can get how to interact etc.
+ICTech‘s Documents, you can get how to interact etc.
